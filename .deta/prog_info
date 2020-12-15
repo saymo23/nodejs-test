@@ -1,0 +1,1 @@
+{"id":"d494bd26-ab52-4f1e-a37b-086a375f7219","space":1770,"runtime":"nodejs12.x","name":"deta_pro","path":"srnat2","project":"b0vucfbb","account":"848309356320","region":"us-west-1","deps":["express@^4.17.1"],"envs":null,"public":true,"log_level":"debug","cron":"","reload_deps":false}
